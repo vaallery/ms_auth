@@ -1,0 +1,3 @@
+db:
+  database: auth_development
+#  database: ads_development

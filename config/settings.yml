@@ -1,0 +1,9 @@
+db:
+  adapter: postgresql
+  host: localhost
+  user: postgres
+  password: admin
+pagination:
+  page_size: 10
+secrets:
+  secret_key_base: qwerqwerqwer
